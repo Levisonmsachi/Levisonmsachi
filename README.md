@@ -1,4 +1,4 @@
-# 👾 Levison Msachi — aka LEVVIE LIVVIE
+# 👾 Levison Msachi — aka LEVVIE-LIVVIE
 
 🧑‍💻 Cybersecurity Enthusiast | 🐛 Bug Bounty Beginner | 🕸️ Web App Hunter  
 🧰 Building custom hacking tools | 👨‍🔬 Python + JS Dev | 🔒 Defender of Data  
