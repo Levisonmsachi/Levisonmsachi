@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-- 🎯 Currently mastering: **Python, JavaScript, HTML, CSS, Bootstrap, Kali Linux, Java, and C**
+- 🎯 Currently mastering: **Python, JavaScript, HTML, CSS, Bootstrap, Kali Linux, React, and Node.js**
 - 🧠 Learning Ethical Hacking & practicing on **Hack The Box** and **TryHackMe**
 - 💻 Practicing hacking techniques with tools like **Wifiphisher**, **Nmap**, and **Metasploit**
 - 🧑‍💻 Focused on **Cybersecurity**, **Web Development**, and building real-world **custom hacking tools**
