@@ -47,8 +47,8 @@
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)  
 ![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white)  
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)  
-![Metasploit](https://img.shields.io/badge/Metasploit-001F3F?style=for-the-badge&logo=data:image/svg+xml;base64,...&logoColor=white) *(custom icon required)*  
-![Wifiphisher](https://img.shields.io/badge/Wifiphisher-grey?style=for-the-badge&logo=gnu-bash&logoColor=white) *(no official logo)*
+![Metasploit](https://img.shields.io/badge/Metasploit-001F3F?style=for-the-badge&logo=data:image/svg+xml;base64,...&logoColor=white)  
+![Wifiphisher](https://img.shields.io/badge/Wifiphisher-grey?style=for-the-badge&logo=gnu-bash&logoColor=white) 
 
 ---
 
